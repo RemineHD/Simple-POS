@@ -12,7 +12,7 @@ jdominguez@zaroz.es
 ### Built With
 
 * [![Svelte][Svelte.dev]][Svelte-url]
-and TailwindCSS
+* and TailwindCSS
 
 ### Pictures and Showcase 
 see pictures [here](pics/)
