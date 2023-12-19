@@ -15,4 +15,6 @@ Schedule: /schedule (Not implemented)
 404: /404
 Login: /login
 
+Check the /pics folder for some photos of the project
+
 **Logos and names might be missing so I don't doxx myself**
